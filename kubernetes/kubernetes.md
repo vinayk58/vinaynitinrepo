@@ -1,6 +1,6 @@
 ## Kubernetes Cluster Information 
 ssh -p 333 demouser@srecops.com 
-user4321
+Passwd : IN YOUR CHAT
 
 ### setup export file 
 export KUBECONFIG=/Users/demouser/demo-kubeconfig.yaml
